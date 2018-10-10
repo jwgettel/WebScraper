@@ -1,0 +1,18 @@
+aapl
+2018-10-09
+Previous Close: 223.77
+Open: 223.64
+Bid: 226.90 x 900
+Ask: 227.00 x 800
+Day's Range: 222.25 - 227.27
+52 Week Range: 150.24 - 233.47
+Volume: 24,681,007
+Avg. Volume: 28,902,556
+Market Cap: 1.096T
+Beta (3y): 1.27
+PE Ratio (TTM): 20.55
+EPS (TTM): 11.04
+Earnings Date: Oct 31, 2018 - Nov 5, 2018
+Forward Dividend & Yield: 2.92 (1.30%)
+Ex-Dividend Date: 2018-08-10
+1y Target Est: 236.02

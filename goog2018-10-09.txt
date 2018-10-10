@@ -1,0 +1,18 @@
+goog
+2018-10-09
+Previous Close: 1,148.97
+Open: 1,146.15
+Bid: 1,139.22 x 900
+Ask: 1,140.79 x 1000
+Day's Range: 1,137.57 - 1,154.35
+52 Week Range: 960.52 - 1,273.89
+Volume: 1,294,566
+Avg. Volume: 1,464,146
+Market Cap: 795.335B
+Beta (3y): 1.44
+PE Ratio (TTM): 49.18
+EPS (TTM): 23.16
+Earnings Date: N/A
+Forward Dividend & Yield: N/A (N/A)
+Ex-Dividend Date: N/A
+1y Target Est: 1,354.00

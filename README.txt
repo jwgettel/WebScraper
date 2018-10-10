@@ -1,0 +1,1 @@
+A simple web scraper that collects daily financial data from Yahoo! Finance. Enter the desired tickers symbols as arguments when the script is run from the command line. The data is written to a file for each day and symbol.
